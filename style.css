@@ -105,4 +105,17 @@ footer {
         flex-direction: column;
         align-items: center;
     }
+
+}
+hero button {
+    background-color: #4CAF50; /* Green background */
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: transform 0.3s ease; /* This sets up the animation */
+}
+
+.hero button:hover {
+    transform: scale(1.05); /* This makes the button grow on hover */
 }
