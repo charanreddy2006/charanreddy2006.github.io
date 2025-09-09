@@ -108,7 +108,7 @@ footer {
 
 }
 hero button {
-    background-color: #4CAF50; /* Green background */
+    background-color: #ff474c; /* Green background */
     border: none;
     padding: 15px 30px;
     font-size: 1.2em;
@@ -119,3 +119,4 @@ hero button {
 .hero button:hover {
     transform: scale(1.05); /* This makes the button grow on hover */
 }
+
